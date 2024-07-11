@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activities.ExcelDiagram", "Activities.ExcelDiagram\Activities.ExcelDiagram.csproj", "{84FEC91C-B1B6-446B-B357-D4868419DD6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FEC91C-B1B6-446B-B357-D4868419DD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FEC91C-B1B6-446B-B357-D4868419DD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FEC91C-B1B6-446B-B357-D4868419DD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FEC91C-B1B6-446B-B357-D4868419DD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A8F4C9-E283-4B99-84D0-68D993956BAC}
+	EndGlobalSection
+EndGlobal
