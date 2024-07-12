@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Activities.ExcelDiagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7565bbc3ee83c6177149635c871d6836517770ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+922f2ee6bf1920bffe638728d0e29826350677c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Activities.ExcelDiagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Activities.ExcelDiagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
